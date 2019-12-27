@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DSC_React_Tryouts/static/css/main.54f47931.chunk.css",
+    "main.js": "/DSC_React_Tryouts/static/js/main.c699a49e.chunk.js",
+    "main.js.map": "/DSC_React_Tryouts/static/js/main.c699a49e.chunk.js.map",
+    "runtime-main.js": "/DSC_React_Tryouts/static/js/runtime-main.b5252611.js",
+    "runtime-main.js.map": "/DSC_React_Tryouts/static/js/runtime-main.b5252611.js.map",
+    "static/js/2.7939acd1.chunk.js": "/DSC_React_Tryouts/static/js/2.7939acd1.chunk.js",
+    "static/js/2.7939acd1.chunk.js.map": "/DSC_React_Tryouts/static/js/2.7939acd1.chunk.js.map",
+    "index.html": "/DSC_React_Tryouts/index.html",
+    "precache-manifest.0129383e598554b40e47c2ec6467e970.js": "/DSC_React_Tryouts/precache-manifest.0129383e598554b40e47c2ec6467e970.js",
+    "service-worker.js": "/DSC_React_Tryouts/service-worker.js",
+    "static/css/main.54f47931.chunk.css.map": "/DSC_React_Tryouts/static/css/main.54f47931.chunk.css.map",
+    "static/js/2.7939acd1.chunk.js.LICENSE": "/DSC_React_Tryouts/static/js/2.7939acd1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5252611.js",
+    "static/js/2.7939acd1.chunk.js",
+    "static/css/main.54f47931.chunk.css",
+    "static/js/main.c699a49e.chunk.js"
+  ]
+}
